@@ -1,75 +1,64 @@
-# 👋 Hola, soy Ignacio Osorio
+# 👋 Hi, I'm Ignacio Osorio
 
 ### Data Scientist | Machine Learning | Python | SQL
 
-Científico de Datos con más de 10 años de experiencia en Ciencia de Datos,
-Machine Learning, análisis de datos e ingeniería de datos.
+Data Scientist with over 10 years of experience in Data Science,
+Machine Learning, data analytics, and data engineering.
 
-He trabajado en proyectos relacionados con banca, telecomunicaciones y
-sector público, desarrollando soluciones de datos, modelos predictivos,
-segmentación, detección de anomalías, NLP, análisis exploratorio y
-procesamiento de datos a escala.
+I have worked on projects related to banking, telecommunications, and the
+public sector, developing data solutions, predictive models,
+segmentation, anomaly detection, NLP, exploratory analysis, and
+large-scale data processing.
 
-🎓 Maestría en Ciencia de Datos  
-📍 Lima, Perú  
+🎓 Master's Degree in Data Science
+
+📍 Lima, Peru
+
 💼 Data Science | Machine Learning | Data Engineering
 
 ---
 
-## 🧠 Sobre este GitHub
+## 🧠 About this GitHub
 
-Este repositorio reúne material práctico y teórico relacionado con
-Ciencia de Datos y Machine Learning.
+This repository brings together practical and theoretical material related to
+Data Science and Machine Learning.
 
-El objetivo es compartir:
+The goal is to share:
 
-- 📚 Conceptos teóricos
-- 💻 Notebooks de práctica
-- 🔬 Ejemplos aplicados
-- 🧩 Ejercicios de Machine Learning
-- ♻️ Código reutilizable
-- 📊 Análisis exploratorio y visualización
-- 🚀 Proyectos de Ciencia de Datos
+* 📚 Theoretical concepts
+* 💻 Practice notebooks
+* 🔬 Applied examples
+* 🧩 Machine Learning exercises
+* ♻️ Reusable code
+* 📊 Exploratory data analysis and visualization
+* 🚀 Data Science projects
 
-El material está organizado por áreas para facilitar tanto el aprendizaje
-como la consulta técnica.
+The material is organized by area to facilitate both learning
+and technical reference.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Tools
 
-### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### Languages
 
 ### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
 
 ### Deep Learning & NLP
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### Data Engineering
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
-### Visualización
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+### Visualization
 
 ---
 
 ## ⭐ Featured Projects
 
-> Proyectos seleccionados que representan diferentes áreas de
-> Ciencia de Datos y Machine Learning.
+> Selected projects representing different areas of
+> Data Science and Machine Learning.
 
-| Proyecto | Área | Tecnologías |
-|---|---|---|
+| Project | Area | Technologies |
+| --- | --- | --- |
 | 🔄 Churn Prediction | Machine Learning | Python, XGBoost, LightGBM, SHAP |
 | 👥 Customer Segmentation | Unsupervised Learning | K-Means, PCA, GMM |
 | 🚨 Anomaly Detection | Unsupervised Learning | DBSCAN, HDBSCAN |
@@ -77,95 +66,107 @@ como la consulta técnica.
 | 💬 NLP | Natural Language Processing | Python |
 | ⚙️ Data Engineering | Data Engineering | SQL, PySpark |
 
-*Los enlaces a los proyectos se irán incorporando progresivamente.*
+*Project links will be added progressively.*
 
 ---
 
-## 📚 Material de aprendizaje
+## 📚 Learning Materials
 
 ### 📊 Data Analysis
-Análisis exploratorio, limpieza, transformación y preparación de datos.
+
+Exploratory data analysis, cleaning, transformation, and data preparation.
 
 ### 📈 Statistics
-Conceptos y aplicaciones estadísticas para Data Science.
+
+Statistical concepts and applications for Data Science.
 
 ### 🤖 Supervised Learning
-Modelos de clasificación, regresión, evaluación y optimización.
+
+Classification, regression, evaluation, and optimization models.
 
 ### 🔎 Unsupervised Learning
-Clustering, reducción de dimensionalidad y detección de anomalías.
+
+Clustering, dimensionality reduction, and anomaly detection.
 
 ### 🧠 Deep Learning
-Fundamentos y aplicaciones de redes neuronales y Deep Learning.
+
+Fundamentals and applications of neural networks and Deep Learning.
 
 ### 💬 NLP
-Procesamiento y análisis de lenguaje natural.
+
+Natural Language Processing and text analysis.
 
 ### ⏱️ Time Series
-Análisis y modelos para series temporales y forecasting.
+
+Analysis and forecasting models for time series.
 
 ### 🛠️ Data Engineering
-Procesamiento, transformación y preparación de datos a escala.
+
+Large-scale data processing, transformation, and preparation.
 
 ### 🐍 Python
-Programación y herramientas utilizadas en proyectos de Ciencia de Datos.
+
+Programming and tools used in Data Science projects.
 
 ### 🗄️ SQL
-Consultas, transformación y análisis de datos.
+
+Querying, transformation, and data analysis.
 
 ### 📊 Visualization & BI
-Visualización de datos y desarrollo de dashboards.
+
+Data visualization and dashboard development.
 
 ---
 
-## 🎓 Enfoque educativo
+## 🎓 Educational Approach
 
-Los materiales están desarrollados siguiendo una estructura práctica:
+The materials are developed following a practical structure:
 
-**Teoría → Ejemplo → Implementación → Evaluación → Interpretación**
+**Theory → Example → Implementation → Evaluation → Interpretation**
 
-El objetivo es que cada notebook permita comprender no solamente
-cómo ejecutar un algoritmo, sino también cuándo utilizarlo y cómo
-interpretar sus resultados.
-
----
-
-## 💼 Experiencia
-
-- Data Scientist
-- Data Engineer
-- Data Analyst
-- Machine Learning
-- Data Science
-- Data Engineering
-- NLP
-- Big Data
-
-Experiencia profesional en sectores de banca, telecomunicaciones
-y sector público.
+The objective is for each notebook to allow understanding not only
+how to execute an algorithm, but also when to use it and how
+to interpret its results.
 
 ---
 
-## 🎓 Formación
+## 💼 Experience
 
-**Maestría en Ciencia de Datos**  
-Continental University of Florida — Estados Unidos
+* Data Scientist
+* Data Engineer
+* Data Analyst
+* Machine Learning
+* Data Science
+* Data Engineering
+* NLP
+* Big Data
 
-**Licenciatura en Administración**  
-Universidad Continental — Perú
-
-**Estudios de Economía**  
-Universidad San Ignacio de Loyola — Perú
+Professional experience in banking, telecommunications,
+and public sector domain.
 
 ---
 
-## 📫 Contacto
+## 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osorio-data-scientist)
+**Master's Degree in Data Science**
+
+Continental University of Florida — United States
+
+**Bachelor's Degree in Business Administration**
+
+Universidad Continental — Peru
+
+**Studies in Economics**
+
+Universidad San Ignacio de Loyola — Peru
+
+---
+
+## 📫 Contact
 
 📧 r.osorio.romero@gmail.com
 
 ---
 
-⭐ Si encuentras útil alguno de los materiales, puedes explorar los
-repositorios y notebooks relacionados.
+⭐ If you find any of the materials useful, feel free to explore the
+related repositories and notebooks.
