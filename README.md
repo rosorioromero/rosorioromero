@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ronald Osorio
+# 👋 Hola, soy Ignacio Osorio
 
 ### Data Scientist | Machine Learning | Python | SQL
 
